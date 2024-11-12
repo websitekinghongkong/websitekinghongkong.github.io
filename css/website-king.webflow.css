@@ -4831,7 +4831,7 @@ figure {
   transition: all .3s cubic-bezier(.165, .84, .44, 1);
   display: flex;
   position: fixed;
-  inset: auto 2.5rem 2.5rem auto;
+  inset: auto auto 2.5rem 2.5rem;
 }
 
 .whatsapp_link:hover {
@@ -7252,7 +7252,7 @@ figure {
     width: 3rem;
     height: 3rem;
     bottom: 1.5rem;
-    right: 1.25rem;
+    left: 1.25rem;
   }
 }
 
